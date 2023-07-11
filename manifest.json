@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Copy Tabs URLs",
+  "version": "1.0",
+  "description": "Copy URLs of all open tabs to clipboard.",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "tabs",
+    "clipboardWrite"
+  ],
+  "browser_action": {
+    "default_icon": {
+      "48": "icons/border-48.png"
+    },
+    "default_title": "Copy Tabs URLs"
+  }
+}
