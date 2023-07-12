@@ -4,7 +4,7 @@
 <img src="https://github.com/kevintully/copy-tabs-extension/assets/43598739/fa7af01a-ab06-4c74-8691-a3077c35bf27.png" width="128" height="128">
 </p>
 <p align="center">
-Available for download at https://addons.mozilla.org/en-US/developers/addon/copy-tabs-urls/edit
+Available for download at https://addons.mozilla.org/en-US/firefox/addon/copy-tabs-urls/
 </p>
 
 
